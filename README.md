@@ -1,5 +1,4 @@
-#Device Tree for TECNO Pova (LD7)
-
+Device Tree for TECNO Pova (LD7)
 ============================================================
 Basic   | Specification Sheet
 -------:|:-------------------------
