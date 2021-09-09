@@ -29,7 +29,7 @@ Release Date | October 16, 2020
 
 ## Build Date 
 
-2021-08-29 GC 8:11:20 GMT+8 <b>Made with ❤️ in Philippines</b>
+2021-09-07 GC 7:50:20 GMT+8 <b>Made with ❤️ in Philippines</b>
 
 ## Credits
 
