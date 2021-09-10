@@ -125,6 +125,10 @@ PLATFORM_VERSION := 16.1.0
 #TW_OZIP_DECRYPT_KEY := "0000"
 TW_INPUT_BLACKLIST := "hbtp_vm"
 
+# Padding
+TW_Y_OFFSET := 90
+TW_H_OFFSET := -90
+
 # Storage
 TW_HAS_MTP := true
 TW_MTP_DEVICE := /dev/mtp_usb
