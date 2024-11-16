@@ -95,6 +95,7 @@ BOARD_QTI_DYNAMIC_PARTITIONS_PARTITION_LIST := product system vendor
 
 # Recovery
 TARGET_RECOVERY_PIXEL_FORMAT := "RGBX_8888"
+TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery/root/system/etc/recovery.fstab
 
 # Platform
 TARGET_BOARD_PLATFORM := mt6768
@@ -136,6 +137,9 @@ TW_INTERNAL_STORAGE_PATH := "/data/media/0"
 TW_INTERNAL_STORAGE_MOUNT_POINT := "data"
 TW_EXTERNAL_STORAGE_PATH := "/external_sd"
 TW_EXTERNAL_STORAGE_MOUNT_POINT := "external_sd"
+
+# Properties
+TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 
 # Languages
 TW_EXTRA_LANGUAGES := false
