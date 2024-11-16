@@ -17,6 +17,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_LD7.mk
+     $(LOCAL_DIR)/twrp_LD7.mk
 
-COMMON_LUNCH_CHOICES := omni_LD7-eng
+COMMON_LUNCH_CHOICES := twrp_LD7-eng
